@@ -45,7 +45,7 @@ url: https://bluemingnote.github.io
 baseurl: /
 
 # Website info
-title: IT Technical Training
+title: Gray and Blue
 # 자신의 blog title.
 
 description: IT기반기술교육 블로그
@@ -121,7 +121,7 @@ branch: master
 
 relative_source:
 
-destination: ../[GitHubPage]/
+destination: ./output/
 # compile된 결과가 생성되는 폴더
 # 이 폴더안의 내용이 우리가 운영하는 블로그 내용이 컴파일되서 들어간다.
 # 이 폴더안의 내용을 github repository(https://username.github.io)에 push
